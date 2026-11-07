@@ -1,0 +1,21 @@
+test Size: 2265942953
+bits: 32
+error: 0
+
+Reference: 
+time: 288.321
+malloc base: 38525226136
+malloc peak: 38525246617
+malloc diff: 20481
+stack usage: 34552
+memory ratio: 2.69856e-06
+return code: 0
+
+Test: 
+time: 2916.47
+malloc base: 38525226136
+malloc peak: 52120885392
+malloc diff: 13595659256
+stack usage: 3568
+memory ratio: 0.666667
+return code: 7

@@ -1,0 +1,11 @@
+test Size: 52428851
+bits: 26
+error: 0
+
+Reference: 
+time: 6.93975
+return code: 0
+
+Test: 
+time: 5.50249
+return code: 17
